@@ -1,0 +1,76 @@
+apiVersion: v1
+entries:
+  logpilot:
+  - annotations:
+      category: Monitoring
+    apiVersion: v2
+    appVersion: 0.4.0
+    created: "2025-06-14T18:01:21.465901013Z"
+    description: A Helm chart for logPilot
+    digest: c5a3a1476a66dd03884a053ce754079824c8efbe85ea05e57e5e717048416cc9
+    home: https://github.com/jessegoodier/logPilot
+    icon: https://raw.githubusercontent.com/jessegoodier/logPilot/main/icon.png
+    keywords:
+    - kubernetes
+    - logs
+    - monitoring
+    - web
+    maintainers:
+    - email: 31039225+jessegoodier@users.noreply.github.com
+      name: Jesse Goodier
+    name: logpilot
+    sources:
+    - https://github.com/jessegoodier/logPilot
+    type: application
+    urls:
+    - https://github.com/jessegoodier/logpilot/releases/download/v0.4.0/logpilot-0.4.0.tgz
+    version: 0.4.0
+  - annotations:
+      category: Monitoring
+    apiVersion: v2
+    appVersion: 0.3.10
+    created: "2025-06-14T14:31:34.646698304Z"
+    description: A Helm chart for logPilot
+    digest: bcee906d15a0fc0392188e54b5ba24dbf432ffa0ac069f34619a0abc4628ded6
+    home: https://github.com/jessegoodier/logPilot
+    icon: https://raw.githubusercontent.com/jessegoodier/logPilot/main/icon.png
+    keywords:
+    - kubernetes
+    - logs
+    - monitoring
+    - web
+    maintainers:
+    - email: 31039225+jessegoodier@users.noreply.github.com
+      name: Jesse Goodier
+    name: logpilot
+    sources:
+    - https://github.com/jessegoodier/logPilot
+    type: application
+    urls:
+    - https://github.com/jessegoodier/logpilot/releases/download/v0.3.10/logpilot-0.3.10.tgz
+    version: 0.3.10
+  - annotations:
+      category: Monitoring
+    apiVersion: v2
+    appVersion: 0.3.9
+    created: "2025-06-11T21:06:04.611179343Z"
+    description: A Helm chart for logPilot
+    digest: 5beeb110ede2676bcf62232899cac16c4cd27b5aadb220ab28b3a63bc5ba81ef
+    home: https://github.com/jessegoodier/logPilot
+    icon: https://raw.githubusercontent.com/jessegoodier/logPilot/main/icon.png
+    keywords:
+    - kubernetes
+    - logs
+    - monitoring
+    - web
+    maintainers:
+    - email: 31039225+jessegoodier@users.noreply.github.com
+      name: Jesse Goodier
+    name: logpilot
+    sources:
+    - https://github.com/jessegoodier/logPilot
+    type: application
+    urls:
+    - https://github.com/jessegoodier/logpilot/releases/download/v0.3.9/logpilot-0.3.9.tgz
+    version: 0.3.9
+generated: "2025-06-14T18:01:21.46480066Z"
